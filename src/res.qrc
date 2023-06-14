@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/shader">
+        <file>plane.vert</file>
+        <file>terrain.frag</file>
+        <file>terrain.vert</file>
+        <file>plane.frag</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>resources/terrain.png</file>
+        <file>resources/photo.png</file>
+    </qresource>
+</RCC>
